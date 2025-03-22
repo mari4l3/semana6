@@ -4,9 +4,9 @@ Este programa en Python solicita al usuario los nombres y notas de tres estudian
 guarda esta información en un diccionario y luego escribe los nombres y promedios de las notas en un archivo Excel.
 
 
-1.  **Crear un entorno virtual (recomendado):**
+1.  **Crear un entorno virtual:**
 
-    * Crear un entorno virtual para aíslar las dependencias de tu proyecto de las del sistema.
+    * Crear un entorno virtual para aíslar las dependencias del proyecto de las del sistema.
     Para crear un entorno virtual, se abre una terminal y se ejecuta:
 
         python3 -m venv venv
